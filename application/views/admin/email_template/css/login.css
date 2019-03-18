@@ -1,0 +1,21 @@
+.bg_body{background-color: #f4f4f4;}
+.bg{height: 100%;min-height: 660px;position: relative;}
+.login {width: 100%; max-width: 400px; position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);-webkit-transform:translate(-50%,-50%);
+-moz-transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);-o-transform:translate (-50%,-50%);transform:translate (-50%,-50%);top: 50%;}
+.lalaji_heading{width: 100%;position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);-webkit-transform:translate(-50%,-50%);
+-moz-transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);-o-transform:translate (-50%,-50%);transform:translate (-50%,-50%);}
+.lalaji_heading h3{color:#0d8609;font-size: 38px;font-weight: 600;}
+.lalaji_heading span{color:#2f372f;font-size: 38px;font-weight: 600;}
+.bposi{ position: relative; }
+html,body{ height: 100%; }
+.mainLogin{ position: relative; height: 100%;}
+.mainLogin .input-field{ margin-top: 0px; }
+.boxLoginLogo{ text-align: center; margin-bottom: 40px;}
+.mainLogin input[type="submit"]{ width: 100%; }
+.input-field input{ margin-bottom: 0px; }
+.login ul li + li{ padding-top: 25px;  } 
+.switch label input[type="checkbox"]:checked + .lever:after{ background-color:#1bcd6b; }
+.switch label input[type="checkbox"]:checked + .lever{ background-color:#1bcd6b; }
+.forget_password{ float: right; }
+.bottom_btn{padding-top: 30px;}
+.login img{padding-right: 15px;}
